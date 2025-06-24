@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm looking for a job<br>🌱 I'm currently learning Next and React<br>💬 instagram.com/ainur_vody/<br>💬 t.me/AinurVody<br>⚡ I used to be a veterinarian and now I'm a programmer
+🔭 I'm looking for a job<br>💬 instagram.com/ainur_vody/<br>💬 t.me/AinurVody<br>⚡ I used to be a veterinarian and now I'm a programmer
 
 
 ## 🌐 Socials:
